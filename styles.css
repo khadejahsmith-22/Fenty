@@ -1,0 +1,40 @@
+.rih{ 
+    background:#DEB1E0;
+    padding: 50px;
+    color: white; 
+   text-align:center;
+   border:double 30px #A9E3E9;
+    }
+.fen{
+     background:#F7CDE7;
+    padding: 100px;
+    color: white;
+    text-align:center;
+    border:double 30px ;
+    }
+button{
+    width:200px;
+    }
+.rf{
+     background:#EDF4AC;
+    padding: 100px;
+    color: white;
+    text-align:center;
+    border:double #DEB1E0 30px;
+    display:flex;
+}
+img{width:140px;
+height:160px;
+margin:10px;
+}
+img:hover{
+width:200px;
+height:250px;
+}
+.any{
+     background:#A3E4EB;
+    padding: 100px;
+    color:#EFC2DF;
+    text-align:center;
+    border:double 30px ;
+    }
